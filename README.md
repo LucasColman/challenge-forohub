@@ -71,8 +71,8 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/LucasColman/foro-hub.git
-   cd foro-hub
+   git clone https://github.com/LucasColman/challenge-forohub.git
+   cd challenge-forohub
    ```
 2. Configura las credenciales de la base de datos en application.properties
 3.  Ejecuta el proyecto:
